@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    font-size: 20px;
+}
+#note{
+    font-size: 15px;
+    color: red;
+}
+.btn-danger{
+    font-size: 20px;
+    width: 155px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: aliceblue;
+    border: 1px solid red;
+    box-shadow: 5px 5px 3px gray;
+}
+#song_name{
+    width: 300px;
+}
